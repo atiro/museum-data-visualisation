@@ -2,7 +2,7 @@
 
 (work in progress)
 
-An attempt to track the cultural heritage data being collected in the 
+An attempt to visualise the cultural heritage data being collected in the 
 (Museum Data Service)[https://museumdata.uk]
 
 ```{tableofcontents}
