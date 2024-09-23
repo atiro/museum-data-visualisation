@@ -1,0 +1,52 @@
+institution,sector,institution_type,topic,type,level,precision,artefact_count
+Aberystwyth University School of Art Museum and Galleries,museum,university,mixed,object,item,estimate,0
+Aberystwyth University School of Art Museum and Galleries,library,university,mixed,library,item,estimate,0
+Aberystwyth University School of Art Museum and Galleries,archive,university,mixed,archive,item,estimate,0
+University of Cambridge,museum,university,mixed,object,item,estimate,0
+University of Cambridge,library,university,mixed,library,item,estimate,0
+University of Cambridge,archive,university,mixed,archive,item,estimate,0
+Amgueddfa Cymru (National Museum Wales),museum,museum,mixed,object,item,estimate,0
+Amgueddfa Cymru (National Museum Wales),library,museum,mixed,library,item,estimate,0
+Amgueddfa Cymru (National Museum Wales),archive,museum,mixed,archive,item,estimate,0
+National Museums Northern Ireland,museum,museum,mixed,object,item,estimate,0
+National Museums Northern Ireland,library,museum,mixed,library,item,estimate,0
+National Museums Northern Ireland,archive,museum,mixed,archive,item,estimate,0
+Diving Museum,museum,museum,maritime,object,item,estimate,0
+Diving Museum,library,museum,maritime,library,item,estimate,0
+Diving Museum,archive,museum,maritime,archive,item,estimate,0
+Ravenglass Railway Museum,museum,museum,transport,object,item,estimate,0
+Ravenglass Railway Museum,library,museum,transport,library,item,estimate,0
+Ravenglass Railway Museum,archive,museum,transport,archive,item,estimate,0
+"Aberdeen Archives, Gallery and Museums",museum,mixed,mixed,object,item,estimate,0
+"Aberdeen Archives, Gallery and Museums",library,mixed,mixed,library,item,estimate,0
+"Aberdeen Archives, Gallery and Museums",archive,mixed,mixed,archive,item,estimate,0
+Aldbourne Heritage Centre,museum,mixed,heritage,object,item,estimate,0
+Aldbourne Heritage Centre,library,mixed,heritage,library,item,estimate,0
+Aldbourne Heritage Centre,archive,mixed,heritage,archive,item,estimate,0
+Armagh County Museum,museum,museum,heritage,object,item,estimate,0
+Armagh County Museum,library,museum,heritage,library,item,estimate,0
+Armagh County Museum,archive,museum,heritage,archive,item,estimate,0
+Jersey Heritage,museum,museum,heritage,object,item,estimate,0
+Jersey Heritage,library,museum,heritage,library,item,estimate,0
+Jersey Heritage,archive,museum,heritage,archive,item,estimate,0
+Leicester Museums and Galleries,museum,museum,heritage,object,item,estimate,0
+Leicester Museums and Galleries,library,museum,heritage,library,item,estimate,0
+Leicester Museums and Galleries,archive,museum,heritage,archive,item,estimate,0
+Loughborough Carillon Tower and War Memorial Museum,museum,museum,heritage,object,item,estimate,0
+Loughborough Carillon Tower and War Memorial Museum,library,museum,heritage,library,item,estimate,0
+Loughborough Carillon Tower and War Memorial Museum,archive,museum,heritage,archive,item,estimate,0
+Norfolk Museums,museum,museum,heritage,object,item,estimate,0
+Norfolk Museums,library,museum,heritage,library,item,estimate,0
+Norfolk Museums,archive,museum,heritage,archive,item,estimate,0
+Nottingham Museums,museum,museum,heritage,object,item,estimate,0
+Nottingham Museums,library,museum,heritage,library,item,estimate,0
+Nottingham Museums,archive,museum,heritage,archive,item,estimate,0
+Poole Museum,museum,museum,heritage,object,item,estimate,0
+Poole Museum,library,museum,heritage,library,item,estimate,0
+Poole Museum,archive,museum,heritage,archive,item,estimate,0
+Teign Heritage Centre,museum,museum,heritage,object,item,estimate,0
+Teign Heritage Centre,library,museum,heritage,library,item,estimate,0
+Teign Heritage Centre,archive,museum,heritage,archive,item,estimate,0
+Science Museum Group,museum,museum,science,object,item,estimate,0
+Science Museum Group,library,museum,science,library,item,estimate,0
+Science Museum Group,archive,museum,science,archive,item,estimate,0

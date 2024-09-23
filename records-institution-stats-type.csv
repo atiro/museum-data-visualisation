@@ -1,0 +1,52 @@
+institution,sector,type,topic,precision,record_count
+Aberystwyth University School of Art Museum and Galleries,university,museum,mixed,estimate,0
+University of Cambridge,university,museum,mixed,estimate,275225
+Amgueddfa Cymru (National Museum Wales),national,museum,mixed,exact,0
+National Museums Northern Ireland,national,museum,mixed,exact,46618
+Diving Museum,independent,museum,maritime,estimate,8934
+Ravenglass Railway Museum,independent,museum,transport,estimate,8195
+"Aberdeen Archives, Gallery and Museums",regional,museum,mixed,estimate,149515
+Aldbourne Heritage Centre,regional,museum,heritage,estimate,3728
+Armagh County Museum,regional,museum,heritage,estimate,14258
+Jersey Heritage,regional,museum,heritage,estimate,219359
+Leicester Museums and Galleries,regional,museum,heritage,estimate,20719
+Loughborough Carillon Tower and War Memorial Museum,regional,museum,heritage,estimate,4266
+Norfolk Museums,regional,museum,heritage,estimate,443754
+Nottingham Museums,regional,museum,heritage,estimate,506639
+Poole Museum,regional,museum,heritage,estimate,35171
+Teign Heritage Centre,regional,museum,heritage,estimate,3324
+Science Museum Group,dcms,museum,science,estimate,468063
+Aberystwyth University School of Art Museum and Galleries,university,university,mixed,estimate,0
+University of Cambridge,university,library,mixed,estimate,0
+Amgueddfa Cymru (National Museum Wales),national,museum,mixed,estimate,0
+National Museums Northern Ireland,national,museum,mixed,estimate,0
+Diving Museum,independent,museum,maritime,estimate,0
+Ravenglass Railway Museum,independent,museum,transport,estimate,0
+"Aberdeen Archives, Gallery and Museums",regional,mixed,mixed,estimate,0
+Aldbourne Heritage Centre,regional,mixed,heritage,estimate,0
+Armagh County Museum,regional,museum,heritage,estimate,0
+Jersey Heritage,regional,museum,heritage,estimate,0
+Leicester Museums and Galleries,regional,museum,heritage,estimate,0
+Loughborough Carillon Tower and War Memorial Museum,regional,museum,heritage,estimate,0
+Norfolk Museums,regional,museum,heritage,estimate,0
+Nottingham Museums,regional,museum,heritage,estimate,0
+Poole Museum,regional,museum,heritage,estimate,0
+Teign Heritage Centre,regional,museum,heritage,estimate,0
+Science Museum Group,dcms,museum,science,estimate,0
+Aberystwyth University School of Art Museum and Galleries,university,university,mixed,estimate,0
+University of Cambridge,university,archive,mixed,estimate,0
+Amgueddfa Cymru (National Museum Wales),national,museum,mixed,estimate,0
+National Museums Northern Ireland,national,museum,mixed,estimate,0
+Diving Museum,independent,museum,maritime,estimate,0
+Ravenglass Railway Museum,independent,museum,transport,estimate,0
+"Aberdeen Archives, Gallery and Museums",regional,mixed,mixed,estimate,0
+Aldbourne Heritage Centre,regional,mixed,heritage,estimate,0
+Armagh County Museum,regional,museum,heritage,estimate,0
+Jersey Heritage,regional,museum,heritage,estimate,0
+Leicester Museums and Galleries,regional,museum,heritage,estimate,0
+Loughborough Carillon Tower and War Memorial Museum,regional,museum,heritage,estimate,0
+Norfolk Museums,regional,museum,heritage,estimate,0
+Nottingham Museums,regional,museum,heritage,estimate,0
+Poole Museum,regional,museum,heritage,estimate,0
+Teign Heritage Centre,regional,museum,heritage,estimate,0
+Science Museum Group,dcms,museum,science,estimate,0
