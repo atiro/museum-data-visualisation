@@ -8,8 +8,8 @@
 
 | Name | Date | Type | Size |
 | --- | --- | --- | --- |
-| object_records | TODO | TODO | 0 |
-| artefacts | TODO | TODO | 0 |
+| object_records | TODO | TODO | 593978 |
+| artefacts | TODO | TODO | 593978 |
 ### Sub-collections
 
 ## National Museums Northern Ireland

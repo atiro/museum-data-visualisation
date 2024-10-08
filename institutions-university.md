@@ -8,8 +8,8 @@
 
 | Name | Date | Type | Size |
 | --- | --- | --- | --- |
-| object_records | TODO | TODO | 0 |
-| artefacts | TODO | TODO | 0 |
+| object_records | TODO | TODO | 15342 |
+| artefacts | TODO | TODO | 15342 |
 ### Sub-collections
 
 ## University of Cambridge
